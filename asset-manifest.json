@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_sports/static/css/main.ddd22344.chunk.css",
+    "main.js": "/react_sports/static/js/main.5e7cfcd7.chunk.js",
+    "main.js.map": "/react_sports/static/js/main.5e7cfcd7.chunk.js.map",
+    "runtime-main.js": "/react_sports/static/js/runtime-main.1f4b1e7b.js",
+    "runtime-main.js.map": "/react_sports/static/js/runtime-main.1f4b1e7b.js.map",
+    "static/js/2.f85e1e18.chunk.js": "/react_sports/static/js/2.f85e1e18.chunk.js",
+    "static/js/2.f85e1e18.chunk.js.map": "/react_sports/static/js/2.f85e1e18.chunk.js.map",
+    "index.html": "/react_sports/index.html",
+    "static/css/main.ddd22344.chunk.css.map": "/react_sports/static/css/main.ddd22344.chunk.css.map",
+    "static/js/2.f85e1e18.chunk.js.LICENSE.txt": "/react_sports/static/js/2.f85e1e18.chunk.js.LICENSE.txt",
+    "static/media/basketball.a241a99d.jpeg": "/react_sports/static/media/basketball.a241a99d.jpeg",
+    "static/media/football.9f5b961f.jpeg": "/react_sports/static/media/football.9f5b961f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f4b1e7b.js",
+    "static/js/2.f85e1e18.chunk.js",
+    "static/css/main.ddd22344.chunk.css",
+    "static/js/main.5e7cfcd7.chunk.js"
+  ]
+}
