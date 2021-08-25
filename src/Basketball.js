@@ -14,6 +14,10 @@ class Basketball extends Component {
           <br>
           </br>
         </p>
+        <h3>History of Basketball</h3>
+        <p>The history of basketball began with its invention in 1891 in Springfield,
+           Massachusetts by Canadian physical education instructor James Naismith as a less injury-prone sport than football. Naismith was a 31-year old graduate student when he created
+           the indoor sport to keep athletes indoors during the winters.</p>
         <img src={photo1} alt="basketball photo" />
       </div>
     );

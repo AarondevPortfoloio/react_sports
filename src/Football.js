@@ -14,6 +14,11 @@ class Football extends Component {
           <li>I like to watch football games because they are a nice event to relax too.</li>
           <li>The superbowl is a great event for a family and friends gather.</li>
           <li>Football provides a great workout when playing.</li>
+          <br></br>
+          <h3>History of Football</h3>
+          <p>The sport of American football itself was relatively new in 1892. Its roots stemmed from two sports, soccer and rugby, which had enjoyed long-time popularity in many nations of the world. On November 6, 1869, Rutgers
+             and Princeton played what 
+             was billed as the first college football game.</p>
         </ol>
         <br>
         </br>

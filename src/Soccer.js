@@ -13,6 +13,10 @@ class Soccer extends Component {
            </br>
            <br>
            </br>
+           <h3>History of Soccer</h3>
+           <p>Records trace the history of soccer back more than 2,000 years ago to ancient China. Greece, Rome, and parts of Central America also claim to have started the sport; but it was England that transitioned soccer, or what the British and many 
+             other people around the world call “football,” 
+             into the game we know today.</p>
            <img src={photo3} alt="Soccer photo" />
       </div>
     );
